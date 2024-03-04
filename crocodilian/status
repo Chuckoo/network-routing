@@ -1,0 +1,41 @@
+15:25:56,719 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category: Crocodiliansss&cmlimit=500
+15:25:57,341 root INFO Found 0 pages
+15:26:02,125 wikipediaapi INFO Wikipedia: language=en, user_agent: MyProjectName (merlin@example.com) (Wikipedia-API/0.6.0; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+15:26:02,139 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category: Crocodiliansss&cmlimit=500
+15:26:02,692 root INFO Found 0 pages
+15:26:28,295 wikipediaapi INFO Wikipedia: language=en, user_agent: MyProjectName (merlin@example.com) (Wikipedia-API/0.6.0; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+15:26:30,37 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category: Crocodiliansss&cmlimit=500
+15:26:30,585 root INFO Found 0 pages
+15:26:44,556 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category: Crocodiliansss&cmlimit=500
+15:26:44,659 root INFO Found 0 pages
+15:27:40,984 wikipediaapi INFO Wikipedia: language=en, user_agent: MyProjectName (merlin@example.com) (Wikipedia-API/0.6.0; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+15:27:41,2 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category: Crocodilians&cmlimit=500
+15:27:41,592 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Alligatoridae&cmlimit=500
+15:27:41,704 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Alligator&cmlimit=500
+15:27:41,809 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Alligators and humans&cmlimit=500
+15:27:41,911 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Individual alligators&cmlimit=500
+15:27:42,7 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodilian families&cmlimit=500
+15:27:42,126 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodilians by location&cmlimit=500
+15:27:42,228 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodilians of Africa&cmlimit=500
+15:27:42,329 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodilians of Asia&cmlimit=500
+15:27:42,432 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodiles of Australia&cmlimit=500
+15:27:42,530 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodilians of New Guinea&cmlimit=500
+15:27:42,645 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodilians of North America&cmlimit=500
+15:27:42,743 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodilians of South America&cmlimit=500
+15:27:42,834 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodylidae&cmlimit=500
+15:27:42,940 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Coats of arms with crocodiles&cmlimit=500
+15:27:43,32 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodiles of Australia&cmlimit=500
+15:27:43,124 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Deaths due to crocodile attacks&cmlimit=500
+15:27:43,228 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodile farms&cmlimit=500
+15:27:43,331 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Crocodile farms in Malaysia&cmlimit=500
+15:27:43,424 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Individual crocodiles&cmlimit=500
+15:27:43,538 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Enigmatic crocodilian taxa&cmlimit=500
+15:27:43,649 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Fictional crocodilians&cmlimit=500
+15:27:43,755 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Children's books about crocodilians&cmlimit=500
+15:27:43,861 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Films about crocodilians&cmlimit=500
+15:27:43,960 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Gavialidae&cmlimit=500
+15:27:44,64 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Individual crocodilians&cmlimit=500
+15:27:44,161 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Individual alligators&cmlimit=500
+15:27:44,265 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Individual crocodiles&cmlimit=500
+15:27:44,372 wikipediaapi INFO Request URL: https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Mekosuchinae&cmlimit=500
+15:27:44,488 root INFO Found 317 pages

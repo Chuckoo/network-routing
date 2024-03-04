@@ -12,7 +12,7 @@ with open('graph.csv', newline='') as graph_csv_file:
     for row in reader:
         edges[row['node']] = json.loads(row['edges_within_category'])['key']
         edges[row['node']].extend(json.loads(row['edges_outside_category'])['key'])
-        inside_category[row['node']] = row['hop_from_category'] == 0 
+        inside_category[row['node']] = row['hop_from_category'] == "0"
 
 n = len(edges)
 

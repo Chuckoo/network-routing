@@ -5,12 +5,15 @@ epsilon = 0.01
 d = 0.85
 
 edges = {}
+inside_category = {}
 
 with open('graph.csv', newline='') as graph_csv_file:
     reader = csv.DictReader(graph_csv_file)
     for row in reader:
+        # if row['hop_from_category'] == '0':
         edges[row['node']] = json.loads(row['edges_within_category'])['key']
         edges[row['node']].extend(json.loads(row['edges_outside_category'])['key'])
+        inside_category[row['node']] = row['hop_from_category'] == "0"
 
 n = len(edges)
 
@@ -35,7 +38,10 @@ while True:
 
     if delta < epsilon:
         break
-
+output = {}
+for page in page_ranks:
+    output[page] = {"rank": page_ranks[page], "inside_category": inside_category[page]}
+# with open('page_ranks_inside_only.json', 'w') as fp:
 with open('page_ranks.json', 'w') as fp:
-    json.dump(page_ranks, fp)
+    json.dump(output, fp)
     
